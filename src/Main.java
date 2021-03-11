@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		//my commit pizdetz
+		//my commit pizdetzz
 
 		String tmpDirectoryName = System.getenv("TMP");
 		System.out.println(tmpDirectoryName);

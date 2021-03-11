@@ -6,11 +6,19 @@ public class Main {
 		String tmpDirectoryName = System.getenv("TMP");
 		System.out.println(tmpDirectoryName);
 		
+		int answer = average(4,10);
+		System.out.println(answer);
+		
 //		int x = 1;
 //		Man man = null;
 //		
 //		f1(x);
 //		System.out.println(123);
+	}
+
+	private static int average(int num1, int num2) {
+		int average = num1 + num2 / 2;
+		return average;
 	}
 
 	private static void f1(int x) {

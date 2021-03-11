@@ -46,6 +46,9 @@ public class Main {
 		return mod(num1 - num2, num2);
 	}
 	
-	
+	public int sum (int num1, int num2) {
+		int sum= num1+ num2;
+		return sum;
+	}
 
 }

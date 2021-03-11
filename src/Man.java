@@ -11,5 +11,9 @@ public class Man {
 	public void setWife(Woman wife) {
 		this.wife = wife;
 	}
+	
+	public void doSomething() {
+		
+	}
 
 }

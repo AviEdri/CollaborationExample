@@ -28,9 +28,8 @@ public class Main {
 	private static void f1(int x) {
 		x = 3;
 		int y = -2;
-		Man man = new Man();
 		Woman woman = new Woman();
-		man.setWife(woman);
+//		man.setWife(woman);
 	}
 
 	public static int mult(int num1, int num2) {

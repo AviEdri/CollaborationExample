@@ -15,9 +15,13 @@ public class Main {
 //		f1(x);
 //		System.out.println(123);
 	}
+	
+	// Sasi was here..
 
 	private static int average(int num1, int num2) {
+
 		int average = (num1 + num2 )/ 2;
+
 		return average;
 	}
 

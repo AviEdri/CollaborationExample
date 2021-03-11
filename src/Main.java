@@ -15,18 +15,20 @@ public class Main {
 //		f1(x);
 //		System.out.println(123);
 	}
+	
+	// Sasi was here..
 
 	private static int average(int num1, int num2) {
-		int average = (num1 + num2) / 2;
+
+		int average = (num1 + num2 )/ 2;
+
 		return average;
 	}
 
 	private static void f1(int x) {
 		x = 3;
 		int y = -2;
-		Man man = new Man();
 		Woman woman = new Woman();
-		man.setWife(woman);
 	}
 
 	public static int mult(int num1, int num2) {
@@ -52,6 +54,9 @@ public class Main {
 
 		return mod(num1 - num2, num2);
 	}
+
+	
+	
 
 	public static int sum(int num1, int num2) {
 		int sum = num1 + num2;

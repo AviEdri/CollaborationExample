@@ -52,19 +52,16 @@ public class Main {
 
 		return mod(num1 - num2, num2);
 	}
-<<<<<<< HEAD
 	
-	public static int sum(int num1, int num2) {
+	public static int theBestSumFunction(int num1, int num2) {
 		return num1+num2;
 	}
 	
 	
-=======
 
 	public static int sum(int num1, int num2) {
 		int sum = num1 + num2;
 		return sum;
 	}
->>>>>>> branch 'main' of https://github.com/AviEdri/CollaborationExample.git
 
 }

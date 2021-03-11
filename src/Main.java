@@ -17,7 +17,7 @@ public class Main {
 	}
 
 	private static int average(int num1, int num2) {
-		int average = num1 + num2 / 2;
+		int average = (num1 + num2) / 2;
 		return average;
 	}
 

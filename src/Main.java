@@ -19,7 +19,9 @@ public class Main {
 	// Sasi was here..
 
 	private static int average(int num1, int num2) {
-		int average = (num1 + num2) / 2;
+
+		int average = (num1 + num2 )/ 2;
+
 		return average;
 	}
 
@@ -58,6 +60,9 @@ public class Main {
 	public static int theBestSumFunction(int num1, int num2) {
 		return num1+num2;
 	}
+	
+	
+
 	
 	
 

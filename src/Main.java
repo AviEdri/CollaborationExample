@@ -17,9 +17,13 @@ public class Main {
 //		f1(x);
 //		System.out.println(123);
 	}
+	
+	// Sasi was here..
 
 	private static int average(int num1, int num2) {
-		int average = (num1 + num2) / 2;
+
+		int average = (num1 + num2 )/ 2;
+
 		return average;
 	}
 
@@ -54,6 +58,9 @@ public class Main {
 
 		return mod(num1 - num2, num2);
 	}
+
+	
+	
 
 	public static int sum(int num1, int num2) {
 		int sum = num1 + num2;

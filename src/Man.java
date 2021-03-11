@@ -6,11 +6,9 @@ public class Man {
 	private int age;
 
 	public Man() {
-		this.age = 30;
 	}
 
 	public void setWife(Woman wife) {
-		this.wife = wife;
 	}
 
 	public Woman getParamour() {

@@ -3,6 +3,8 @@ public class Main {
 
 	public static void main(String[] args) {
 
+		//my commit pizdetzz
+
 		String tmpDirectoryName = System.getenv("TMP");
 		System.out.println(tmpDirectoryName);
 		
@@ -29,6 +31,7 @@ public class Main {
 		x = 3;
 		int y = -2;
 		Woman woman = new Woman();
+
 	}
 
 	public static int mult(int num1, int num2) {
@@ -54,6 +57,12 @@ public class Main {
 
 		return mod(num1 - num2, num2);
 	}
+	
+	public static int theBestSumFunction(int num1, int num2) {
+		return num1+num2;
+	}
+	
+	
 
 	
 	
